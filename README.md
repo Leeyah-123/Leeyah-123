@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Leeyah-123/Leeyah-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am a web developer with a vast array
+of knowledge in many different front end 
+and back end languages, responsive frameworks, 
+databases, and best code practices. 
+My objective is simply to be the best web developer 
+that I can be and to contribute to the technology industry 
+all that I know and can do.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can contact me on:
+[Gmail](junaidaaliyah260@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aaliyah-junaid-b541aa233)
+- 😄 Pronouns: She/Her
