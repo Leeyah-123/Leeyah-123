@@ -134,9 +134,6 @@
   </div>    
  </details>
   
-<details>
-  <summary>🌏 global</summary>
-  <br/>
 <details open>
   <summary>😒 random stuff</summary>
 <div>
@@ -162,8 +159,6 @@
 
 ```
 </details>
-<br/>
-</details> 
 
 -----
 Last Edited on: 08/11/2022
