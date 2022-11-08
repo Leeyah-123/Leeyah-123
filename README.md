@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://leeyah.vercel.app/">
+  <a href="https://leeyah.vercel.app/" target="_blank">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -83,7 +83,7 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://leeyah.vercel.app/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyah-123&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
         <p align="center">
