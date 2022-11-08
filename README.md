@@ -11,7 +11,7 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -23,7 +23,7 @@
       <a href="https://github.com/Leeyah-123/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="junaidaaliyah260@gmail.com" target="blank"><img align="center"
+      <a href="mailto:junaidaaliyah260@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
@@ -109,13 +109,24 @@
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>🛠 &nbsp; Tech Stack</summary>
   <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Leeyah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
+    ![Vue](https://img.shields.io/badge/-React-05122A?style=flat&logo=vue)&nbsp;
+    ![Nuxt.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=nuxt.js)&nbsp;
+    ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+    ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+    ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+    ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+    ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
+    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=38bdf8)\
+    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   </samp>
   </details>
   
