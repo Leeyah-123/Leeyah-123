@@ -9,6 +9,10 @@
        alt="snake" /></a>
 </div>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Leeyah-123&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+</p>
+
 -----
 
 ### 🛠 &nbsp;Tech Stack
