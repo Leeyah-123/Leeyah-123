@@ -45,7 +45,7 @@
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
- <p align="center">
+<!--  <p align="center">
   <a href="https://leeyah.vercel.app/" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=Leeyah-123&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
@@ -54,10 +54,26 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/Leeyah-123/Leeyah-123/overview/main"><img align="center"
+  <a href="https://www.codefactor.io/repository/github/1/Leeyah-123/overview/main"><img align="center"
      src="https://www.codefactor.io/repository/github/Leeyah-123/Leeyah-123/badge/main" height="25"
      alt="CodeFactor" /></a>
   <a href="https://github.com/Leeyah-123/" target="blank"><img align="center" 
+     src="https://github.com/Leeyah-123/Leeyah-123/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+     alt="page built"/></a>
+  </p> -->
+   <p align="center">
+  <a href="https://leeyah.vercel.app/" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=Leeyah-123&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://leeyah.vercel.app/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+     alt="website" /></a>
+  </p>
+  <p align="center">
+  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
+     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
+     alt="CodeFactor" /></a>
+  <a href="https://leeyah.vercel.app/" target="blank"><img align="center" 
      src="https://github.com/Leeyah-123/Leeyah-123/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
