@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/DWk9ap56u](https://resume.io/r/DWk9ap56u)
 
-- ⚡ Fun fact **I love catssss**
+- ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
