@@ -40,7 +40,7 @@
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">you can reach me on:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/aaliyah-junaid-b541aa233" target="blank"><img align="center"
@@ -161,4 +161,4 @@
 </details>
 
 -----
-Last Edited on: 08/11/2022
+Last Edited on: 09/11/2022
