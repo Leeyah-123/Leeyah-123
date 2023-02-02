@@ -39,7 +39,7 @@
     <h2 align="center">you can reach me on:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/aaliyah-junaid-b541aa233" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/aaliyah-junaid" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:junaidaaliyah260@gmail.com" target="blank"><img align="center"
