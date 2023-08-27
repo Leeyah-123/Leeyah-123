@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aaliyah</h1>
-<h4 align="center">a full stack developer and software engineering student at the National Institute of Information Technology, see my <a href="https://drive.google.com/file/d/14KRfQ99yUt5cJmmRrAXgtaHWb32ObL9J/view?usp=drivesdk" target="_blank">resume</a> for more</h4>
+<h4 align="center">a full stack developer and software engineering student at the National Institute of Information Technology, see my <a href="https://drive.google.com/file/d/1VlIxhNXbbqSDNcYYw2VGBisvesxgLGar/view?usp=drive_link" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
