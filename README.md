@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aaliyah</h1>
-<h4 align="center">a full stack developer and software engineering student at the National Institute of Information Technology, see my <a href="https://drive.google.com/file/d/1VlIxhNXbbqSDNcYYw2VGBisvesxgLGar/view?usp=drive_link" target="_blank">resume</a> for more</h4>
+<h4 align="center">a full stack developer and software engineering student at the National Institute of Information Technology, see my <a href="https://drive.google.com/file/d/1BOx0nVyof_niw4ud3v0La27Yd9sCGdPD/view?usp=drive_link" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -41,18 +41,15 @@
       <br/>
       <a href="https://www.linkedin.com/in/aaliyah-junaid" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="LinkedIn" height="30"/></a>
       <a href="mailto:junaidaaliyah260@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="Gmail" height="30"/></a>
     </p>
   <p align="center">
-<!--       <a href="https://wa.me/+2349054253327" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a> -->
       <a href="https://twitter.com/JunaidAaliyah" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="twitter" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -83,10 +80,10 @@
  <p align="center">
   <a href="https://leeyah.vercel.app/" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/Leeyah-123/Leeyah-123?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
+     alt="license" /></a>
   <a href="https://leeyah.vercel.app/"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
+     alt="works on my machine" /></a>
  </p>
  </samp>
 </div>
@@ -131,7 +128,7 @@
   <summary>😒 random stuff</summary>
 <div>
 <samp>
-<h2 align="center"> ascii art of my name </h2>
+<h2 align="center"> ASCII art of my name </h2>
 </samp>
 </div>
 
